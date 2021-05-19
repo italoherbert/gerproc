@@ -3,11 +3,13 @@
 O gerproc é o sistema de gerenciamento de processos solicitado e está finalizado.
 
 O SGBD escolhido para o projeto foi o H2. Ele foi embutido no war da aplicação e 
-o banco de dados foi cofigurado para funcionar em memória. Isto é, após reiniciar 
-a aplicação, os dados salvos são perdidos.
+o banco de dados foi configurado para funcionar em memória. Isto é, após reiniciar 
+a aplicação, os dados salvos são perdidos. Esse modo de utilização do banco 
+de dados (em memória) foi escolhido para, ao executar como container docker, 
+não necessitar criar volumes.
 
 Foi criado um script que insere um usuário com permissão de administrador, para 
-que se possa, registrar mais usuários com algum perfil e executar as demais 
+que se possa registrar mais usuários com algum perfil e executar as demais 
 funcionalidades do sistema.
 
 O usuário ADMIN padrão registrado no sistema é o seguinte:
