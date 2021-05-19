@@ -1,4 +1,4 @@
-# gerproc
+# O sistema GERPROC
 
 O gerproc é o sistema de gerenciamento de processos solicitado e está finalizado.
 
