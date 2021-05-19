@@ -15,6 +15,7 @@ funcionalidades do sistema.
 O usuário ADMIN padrão registrado no sistema é o seguinte:
 	
 username = admin
+
 password = admin
 
 O servidor tomcat embutido está executando na porta 8080.
