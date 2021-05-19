@@ -12,11 +12,11 @@ Foi criado um script que insere um usuário com permissão de administrador, par
 que se possa registrar mais usuários com algum perfil e executar as demais 
 funcionalidades do sistema.
 
-O usuário ADMIN padrão registrado no sistema é o seguinte:
+O usuário ADMIN padrão registrado no sistema pode se autenticar com os seguintes dados:
 	
-username = admin
+Nome de usuario = admin
 
-password = admin
+Senha = admin
 
 O servidor tomcat embutido está executando na porta 8080.
 
