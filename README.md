@@ -1,5 +1,7 @@
 # O sistema GERPROC
 
+A descrição e especificação do sistema de gerenciamento de processos está no arquivo "DESCRICAO_DO_PROJETO.PDF" contido na raiz do projeto. Você pode baixar (ou clonar o projeto) e ler o PDF.
+
 O gerproc é o sistema de gerenciamento de processos solicitado e está finalizado.
 
 O SGBD escolhido para o projeto foi o H2. Ele foi embutido no war da aplicação e 
